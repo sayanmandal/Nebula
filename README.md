@@ -1,5 +1,5 @@
 # Nebula
-This Repository contains my solution for Exploit Exercises Nebula wargame. Journey of being a hacker.
+This Repository contains my solution to Exploit Exercises Nebula wargame. Journey to become a hacker.
 * Level00: Cracked!!!
 * Level01: Cracked!!!
 * Level02: Cracked!!!
