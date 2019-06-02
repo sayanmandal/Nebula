@@ -1,0 +1,3 @@
+> find / -u=s -user flag00
+> /rofs/bin/.../flag00
+> getflag
